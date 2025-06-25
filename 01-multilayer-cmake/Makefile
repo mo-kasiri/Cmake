@@ -1,6 +1,5 @@
 Build:
 	cmake . -B build
-cb:
 	cmake --build build
 run:
 	cd build/app && ./app

@@ -1,0 +1,10 @@
+/home/mo-kasiri/cmake/01-multilayer-cmake/build/CMakeFiles/edit_cache.dir
+/home/mo-kasiri/cmake/01-multilayer-cmake/build/CMakeFiles/rebuild_cache.dir
+/home/mo-kasiri/cmake/01-multilayer-cmake/build/src/CMakeFiles/edit_cache.dir
+/home/mo-kasiri/cmake/01-multilayer-cmake/build/src/CMakeFiles/rebuild_cache.dir
+/home/mo-kasiri/cmake/01-multilayer-cmake/build/src/my_lib/CMakeFiles/Library.dir
+/home/mo-kasiri/cmake/01-multilayer-cmake/build/src/my_lib/CMakeFiles/edit_cache.dir
+/home/mo-kasiri/cmake/01-multilayer-cmake/build/src/my_lib/CMakeFiles/rebuild_cache.dir
+/home/mo-kasiri/cmake/01-multilayer-cmake/build/app/CMakeFiles/app.dir
+/home/mo-kasiri/cmake/01-multilayer-cmake/build/app/CMakeFiles/edit_cache.dir
+/home/mo-kasiri/cmake/01-multilayer-cmake/build/app/CMakeFiles/rebuild_cache.dir
